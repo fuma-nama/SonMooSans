@@ -7,7 +7,7 @@ I am a shark who love **programming** and **coffee**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonMooSans&theme=radical)
 
-![SonMooSans's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonMooSans&count_private=true&theme=tokyonight)
+[![SonMooSans's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonMooSans&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stack
 **Game Dev**
@@ -44,7 +44,7 @@ I am a shark who love **programming** and **coffee**
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ## Currently working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SonMooSans&repo=omagize)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sonmoosans&repo=omagize)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contributions
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SonMooSans&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![SonMooSans's github activity graph](https://activity-graph.herokuapp.com/graph?username=SonMooSans&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
