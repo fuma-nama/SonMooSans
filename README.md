@@ -5,8 +5,6 @@ I am a shark who love **programming** and **coffee**
 - 🕑 Started to code when I was 11 year ago
 - 🍀 More than 5 years of coding experence
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonMooSans&theme=radical)
-
 [![SonMooSans's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonMooSans&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stack
@@ -37,6 +35,8 @@ I am a shark who love **programming** and **coffee**
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonMooSans&theme=radical)
 
 **Learning**
 
