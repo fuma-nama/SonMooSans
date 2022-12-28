@@ -35,6 +35,7 @@ I am a shark who love **programming** and **coffee**
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonMooSans&theme=radical)
 
@@ -45,6 +46,3 @@ I am a shark who love **programming** and **coffee**
 
 ## Currently working on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sonmoosans&repo=omagize)](https://github.com/sonmoosans/omagize)
-
-## Contributions
-[![SonMooSans's github activity graph](https://activity-graph.herokuapp.com/graph?username=SonMooSans&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
