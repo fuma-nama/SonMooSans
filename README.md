@@ -9,4 +9,4 @@ I am a shark who love **programming** and **coffee**
 
 **My Favorite**
 
-![Shark Chat](https://money-sonmoosans-stats.vercel.app/api/pin/?username=SonMooSans&repo=shark-chat-js)
+[![Shark Chat](https://money-sonmoosans-stats.vercel.app/api/pin/?username=SonMooSans&repo=shark-chat-js)](https://github.com/SonMooSans/shark-chat-js)
