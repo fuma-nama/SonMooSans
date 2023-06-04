@@ -1,4 +1,4 @@
-![Banner](./banner2.png)
+![Banner](./banner3.png)
 
 <sup>_I am a shark who love **programming** and **coffee**_</sup>
 
